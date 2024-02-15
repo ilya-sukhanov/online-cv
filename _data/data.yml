@@ -20,15 +20,26 @@ sidebar:
     telegram: ilya-sukhanov
     pdf: http://www.africau.edu/images/default/sample.pdf
 
+     interests:
+      title: Soft skills
+      info:
+        - item: Ответственность за результат
+        - item: 
+        - item: 
+        - item:
+        - item:
+        - item:
+        - item:
+
 career-profile:
     title: О себе
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+
+      Моя карьера включает в себя 1,5+ года работы финансовым аналитиком в инвестиционной компании Investland и 2+ года опыта в качестве инвестиционного аналитика в Empath, американском финтех-стартапе, целью которого было максимально персонализировать и упростить процесс достижения финансовых целей клиентов.
+      
+      В Investland я получил ценный опыт работы на финансовых рынках на профессиональном уровне, в Empath - опыт разработки инвестиционной части продукта.
+
+      
 education:
     title: Образование
     info:
@@ -39,59 +50,46 @@ education:
 experiences:
     title: Опыт работы
     info:
+    - role: Инвестиционный аналитик
+        time: Декабрь 2021 - Февраль 2024
+        company: Empath, США
+        details: |
+          Инвестиционный аналитик в Empath, американском стартапе в области финансовых технологий. Основные задачи, которыми занимался были сосредоточены в рамках инвестиционной части продукта и включали: 
+            - Разработку глубокого инвестиционного профилирования, включая блоки инвестиционных предпочтений, поведенческого и риск профилирования. 
+            - Описание риск-профилей и поведенческих типов инвесторов.
+            - Создание внутренней базы инвестиционных инструментов для создания портфелей.
+            - Проведение исследований конкурентов и анализ их функциональных возможностей. Представление результатов исследований команде.
+            - Разработку персонализированных финансовых рекомендаций на основе искусственного интеллекта.
       - role: Специалист по финансовому анализу
         time: Сентябрь 2021 - Апрель 2023
         company: Investland, Пермь
         details: |
-          Финансовый аанлитик в инвестиционной компании Investland. В зону ответственности входило: 
+          Финансовый анлитик в инвестиционной компании Investland. В зону ответственности входило: 
             - Разработка и тестирование торговых стратегий, преимущественно для валютных пар и акций российского и американсокого рынка.
             - Исполнение торговых приказов.
-            - Написание аналитических отчетов.
-      - role: Инвестиционный аналитик
-        time: Деабрь 2021 - Февраль 2024
-        company: Empath, США
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+            - Составление аналитических отчетов.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Поведенческие финансы
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: TSLab
+        level: 40%
 
-      - name: Angular
-        level: 98%
+      - name: 
+        level: 
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: 
+        level: 
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: 
+        level: 
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: 
+        level: 
 
 footer: >
     Даю согласие на обработку данного резюме. Резюме актуально на февраль 2024 года.
