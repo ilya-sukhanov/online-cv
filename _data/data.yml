@@ -22,12 +22,10 @@ sidebar:
 career-profile:
     title: О себе
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Моя карьера включает в себя 1,5+ года работы финансовым аналитиком в инвестиционной компании Investland и 2+ года опыта в качестве инвестиционного аналитика в Empath, американском 
+      финтех-стартапе, целью которого было максимально персонализировать и упростить процесс достижения финансовых целей клиентов. 
+      
+      В Investland я получил ценный опыт работы на финансовых рынках на профессиональном уровне, в Empath - опыт разработки инвестиционной части продукта.
 education:
     title: Образование
     info:
