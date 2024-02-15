@@ -32,8 +32,8 @@ career-profile:
 education:
     title: Образование
     info:
-      - university: НИУ Высшая Школа Экономики
-        degree: Бакалавриат, Экономика
+      - degree: НИУ Высшая Школа Экономики
+        university: Бакалавриат, Экономика
         time: Сентябрь 2019 - Июнь 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
